@@ -58,7 +58,7 @@ psycopg2-binary==2.9.10     # PostgreSQL driver — remove if using SQLite only
 # ---------------------------------------------------------
 # Authentication
 # ---------------------------------------------------------
-PyJWT==2.10.1
+PyJWT==2.15.0
 
 # ---------------------------------------------------------
 # Analytics / Visualization
